@@ -1,0 +1,11 @@
+#radio-group {
+    -fx-padding: 0px 0px 0px 30px;
+}
+
+#root {
+    -fx-background-color: #ffffff;
+}
+
+#key-box {
+    -fx-font-size: 1em;
+}
